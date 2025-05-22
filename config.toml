@@ -1,0 +1,14 @@
+interval_seconds = 60
+ntfy_endpoint = ""
+
+[[program_ids]]
+id = "4646d6f1-8319-4b35-bea4-78d0250fc3b8"
+name = "Beginner"
+
+[[program_ids]]
+id = "98197a06-adb4-4785-b383-e5bd428903a0"
+name = "Intermediate"
+
+[[program_ids]]
+id = "8f425207-e7a6-44da-8f0f-8adcbf88cedc"
+name = "Advanced"
