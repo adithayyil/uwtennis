@@ -1,0 +1,4 @@
+# uwtennis
+
+A Rust-based monitoring tool that tracks tennis court availability at the University of Waterloo and sends instant notifications when spots open up in specified program levels.
+
